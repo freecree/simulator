@@ -1,0 +1,9 @@
+h1 {
+  background: blue;
+  margin-top: 50px;
+}
+
+* {
+  padding: 0;
+  margin: 10px;
+}
